@@ -23,7 +23,10 @@ b. Bonus: Be quantiative and determine how much each of these factors would cont
 3. Suppose that the experiment was performed with helium atoms travelling at a different speed.  What problems would you expect to arise if the atoms are travelling  
 a. more slowly?, or   
 b. more quickly?\
-[Answer.](./answers/different_speed)
+[Answer.](./answers/different_speeds.md)
+
+4. Explain how the Heisenberg uncertainty principle prevents the two helium atoms from sitting motionless, at the bottom of the weakly attractive well describing their interaction.\
+[Answer.](./answers/hup.md)
 
 ## Graduate level
 
