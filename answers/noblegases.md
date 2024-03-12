@@ -1,0 +1,1 @@
+Helium is a noble gas. Typically these atoms do not react with other atoms. Based on what we learned so far, we understand that this is because Helium has a full valence shell, like other noble gases. Since it has a full shell, it wont tend to bond with other atoms to make a full shell. 
