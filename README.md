@@ -10,7 +10,7 @@ If this is your first icy plunge into the scientific literature: enjoy!
 
 ## Introductory (high-school/first year)
 
-1. (Knowledge) What have you learned so far about elements like helium that make it hard to believe a bond is likely to form between two of their atoms? [Answer.](./answers/noblegas.md)
+1. (Knowledge) What have you learned so far about elements like helium that make it hard to believe a bond is likely to form between two of their atoms? [Answer.](./answers/noblegases.md)
 2. 
 
 ## Intermediate
