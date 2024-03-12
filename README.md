@@ -9,28 +9,21 @@ https://doi.org/10.1063/1.470772
 If this is your first icy plunge into the scientific literature: enjoy!
 
 ## Introductory (high-school/first year)
+[Curricular References.](./answers/curricularreference.md)
 
 1. What have you learned so far about elements like helium that make it hard to believe a bond is likely to form between two of their atoms? [Answer.](./answers/noblegases.md)
-
-(Knowledge - Ontario Grade 11 Science Curriculum (SCH3U) rev. 2008: A1.9, B2.2) -this goes to separate document
 
 
 2. The speed of light in a medium can be related to the light's frequency is modeled using the equation $$v=f\lambda$$. In this equation, $v$ is the light's speed in that medium, $f$ is the light wave's frequency, and $\lambda$ is the light's wavelength. Using this equation, convince yourself why "frequency doubling" is the same as saying "wavelength halving" (although one rolls off the tongue a bit better). (Hint: If you would like to use numbers, pick any frequency you want and double it! See what happens to the wavelength.)  [Answer.](./answers/frequencydoubling.md) 
 
-(Knowledge - Ontario Grade 12 Science Curriculum (SPH4U) rev. 2008: A1.8, A1.10, A1.12)
-
 
 3. If helium atoms are travelling with wavelength XX and the angle between the first order constructive diffraction spots is XX, then how far apart are the gratings? Answer.
 
-(Knowledge - Ontario Grade 12 Science Curriculum (SPH4U) rev. 2008: E1.1, E2.1, E2.2, E2.3, E3.2, F2.1, F2.2) 
 
 4. Consider what would happen if two atoms were too close together. Why would they not want to bond? Is that the same reason for why two atoms too far apart would not want to bond? Explain your reasoning. Answer. 
 
-(Knowledge/Communication - Ontario Grade 12 Science Curriculum (SPH4U) rev. 2008:D2.1, D3.1, D3.2) 
-
 5. If red light at 632.8 nm gets frequency doubled through a crystal then diffracted through a grating, some of the red light produces a pattern along side the frequency doubled light. If both the red and its frequency doubled light enter through the same grating, and the 2$^{nd}$ order constructive interference maxima are at an angle XX from the incident direcction, then what is the grating spacing? (Click this link for hints to start solving this problem.) Answer.
 
-(Application - Ontario Grade 12 Science Curriculum (SPH4U) rev. 2008: E1.1, E2.1, E2.2, E2.3, E3.2, F1.2, F3.1, F3.2)
 
 ## Intermediate
 
