@@ -22,7 +22,7 @@ If this is your first icy plunge into the scientific literature: enjoy!
 
 4. Consider what would happen if two atoms were too close together. Why would they not want to bond? Is that the same reason for why two atoms too far apart would not want to bond? Explain your reasoning. Answer. 
 
-5. If red light at 632.8 nm gets frequency doubled through a crystal then diffracted through a grating, some of the red light produces a pattern along side the frequency doubled light. If both the red and its frequency doubled light enter through the same grating, and the 2$^{nd}$ order constructive interference maxima are at an angle XX from the incident direcction, then what is the grating spacing? (Click this link for hints to start solving this problem.) Answer.
+5. If red light at 632.8 nm gets frequency doubled through a crystal then diffracted through a grating, some of the red light produces a pattern along side the frequency doubled light. If both the red and its frequency doubled light enter through the same grating, and the 2$^{nd}$ order constructive interference maxima are at an angle XX from the incident direcction, then what is the grating spacing? [Click this link for hints to start solving this problem.](./answers/applicationofredandbluelightHINT.md) Answer.
 
 
 ## Intermediate
