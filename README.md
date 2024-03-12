@@ -10,9 +10,17 @@ If this is your first icy plunge into the scientific literature: enjoy!
 
 ## Introductory (high-school/first year)
 
-1. (Knowledge) What have you learned so far about elements like helium that make it hard to believe a bond is likely to form between two of their atoms? [Answer.](./answers/noblegases.md)
-2. (Knowledge) The speed of light in a medium can be related to the light's frequency is modeled using the equation $$v=f\lambda$$. In this equation, $$v$$ is the light's speed in that medium, $$f$$ is the light wave's frequency, and $$\lambda$$ is the light's wavelength. Using this equation, convince yourself why "frequency doubling" is the same as saying "wavelength halving" (although one rolls off the tongue a bit better). Answer.  
-3. (Knowledge)
+1. What have you learned so far about elements like helium that make it hard to believe a bond is likely to form between two of their atoms? [Answer.](./answers/noblegases.md)
+
+(Knowledge - Ontario Grade 11 Science Curriculum (SCH3U/C) rev. 2008: A1.9 (U/C), B2.2 (U)) -this goes to separate document
+
+
+2. The speed of light in a medium can be related to the light's frequency is modeled using the equation $$v=f\lambda$$. In this equation, $v$ is the light's speed in that medium, $f$ is the light wave's frequency, and $\lambda$ is the light's wavelength. Using this equation, convince yourself why "frequency doubling" is the same as saying "wavelength halving" (although one rolls off the tongue a bit better). [Answer.](./answers/frequencydoubling.md) (Hint: If you would like to use numbers, pick any frequency you want and double it! See what happens to the wavelength.)  
+
+(Knowledge - Ontario Grade 12 Science Curriculum (SPH$U/C) rev. 2008: A1.8, A1.10, A1.12)
+
+
+3. (Knowledge - Ontario Grade 12 Physics Curriculum rev. 2008:) 
 4. (Application) 
 5. (Application)
 
