@@ -11,7 +11,10 @@ If this is your first icy plunge into the scientific literature: enjoy!
 ## Introductory (high-school/first year)
 
 1. (Knowledge) What have you learned so far about elements like helium that make it hard to believe a bond is likely to form between two of their atoms? [Answer.](./answers/noblegases.md)
-2. 
+2. (Knowledge) The speed of light in a medium can be related to the light's frequency is modeled using the equation $$v=f\lambda$$. In this equation, $$v$$ is the light's speed in that medium, $$f$$ is the light wave's frequency, and $$\lambda$$ is the light's wavelength. Using this equation, convince yourself why "frequency doubling" is the same as saying "wavelength halving" (although one rolls off the tongue a bit better). Answer.  
+3. (Knowledge)
+4. (Application) 
+5. (Application)
 
 ## Intermediate
 
