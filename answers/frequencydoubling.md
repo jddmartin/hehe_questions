@@ -14,6 +14,6 @@ $$\lambda = \frac{v}{2f}$$
 If you adjust the equation to separate the variables $v$ and $f$ from the constant number, you get:
 
 $$\lambda = \frac{1}{2}\frac{v}{f}$$
-$$\lambda_{doubled}=\frac{1}{2}\lambda_{original}
+$$\lambda_{doubled}=\frac{1}{2}\lambda_{original}$$
 
 As shown, the wavelength corresponding to frequency doubled light is at half the value of its original.
