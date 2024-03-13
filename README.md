@@ -29,12 +29,12 @@ If this is your first icy plunge into the scientific literature: enjoy!
 a. What is the de Broglie wavelength of these helium dimers (in m)?  (You will need to look up the grating spacing from the paper.)
 b. What is the speed of these helium dimers?
 
-2. The peaks shown in Fig. 2 of the paper have a "width"; i.e., the signal attributed to helium dimer doesn't just appear at one angle but over a range of angles.\  
+2. The peaks shown in Fig. 2 of the paper have a "width"; i.e., the signal attributed to helium dimer doesn't just appear at one angle but over a range of angles.\
 a. List as many factors as possible that could contribute to these widths.  
 b. Bonus: Be quantiative and determine how much each of these factors would contribute to the observed width.\
 [Answer.](./answers/peak_widths.md)
 
-3. Suppose that the experiment was performed with helium atoms travelling at a different speed.  What problems would you expect to arise if the atoms are travelling\  
+3. Suppose that the experiment was performed with helium atoms travelling at a different speed.  What problems would you expect to arise if the atoms are travelling\
 a. more slowly?, or   
 b. more quickly?\
 [Answer.](./answers/different_speeds.md)
