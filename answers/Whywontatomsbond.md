@@ -1,1 +1,1 @@
-XX
+In the case where the atoms are too close together, they are like particles and will repel each other. In the case where they are too far apart, the magnitude of the attractive force is far too weak to have a non-negligible impact, so they won't repel each other, but they are too far apart to interact at all. 
