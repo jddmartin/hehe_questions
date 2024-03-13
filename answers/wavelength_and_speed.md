@@ -14,4 +14,4 @@ $\lambda = d \sin \theta$.
 
 Substituting $d=200 \times 10^{-9}$ m and $\theta = 1 \times 10^{-3}$ rad gives:
 
-$\lambda \approx 200e-12$ m.
+$\lambda \approx 200 \times 10^{-12}$ m.
