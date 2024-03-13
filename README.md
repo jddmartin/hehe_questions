@@ -1,5 +1,3 @@
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
 # Wavicles and weakest bond --- Questions for the curious and a work in progress!
 
 The following questions are aimed at levels ranging from high-school to graduate students.  We will update and improve these questions based on feedback.
