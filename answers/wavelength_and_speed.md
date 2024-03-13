@@ -12,6 +12,6 @@ Since we are considering the first order diffraction peak, $n=1$, so that we may
 
 $\lambda = d \sin \theta$.
 
-Substituting $d=200e-9$ m and $\theta = 1e-3 rad$ gives:
+Substituting $d=200 \times 10^{-9}$ m and $\theta = 1 \times 10^{-3} rad$ gives:
 
 $\lambda \approx 200e-12$ m.
