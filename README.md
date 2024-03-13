@@ -2,9 +2,7 @@
 
 The following questions are aimed at levels ranging from high-school to graduate students.  We will update and improve these questions based on feedback.
 
-Some questions require looking at the original paper, which can be downloaded here: 
-
-https://doi.org/10.1063/1.470772
+Some questions require looking at the original paper, which can be downloaded here: [](https://doi.org/10.1063/1.470772)
 
 If this is your first icy plunge into the scientific literature: enjoy!
 
