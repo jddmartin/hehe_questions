@@ -20,4 +20,10 @@ $\lambda \approx 200 \times 10^{-12}$ m.
 
 (b)  
 
-Use
+Rearrange $\lambda = h / (m v)$ to obtain: 
+
+$v = h / (m \lambda)$
+
+Substitute $h = 6.6 \times 10^{-34}$ J s, $m = 8 \times 1.66 \times 10^{-27}$ kg, and $\lambda = 200 \times 10^{-12}$ to obtain:
+
+$v \approx 250$ m/s.
