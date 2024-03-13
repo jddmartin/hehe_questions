@@ -25,12 +25,9 @@ If this is your first icy plunge into the scientific literature: enjoy!
 
 ## Intermediate
 
-1.  In Figure 2 of the paper the first order He$_2$ diffraction peak is observed at angle 1.0 mrad ("milli-radians") away from the beam direction.
-a. What is the de Broglie wavelength of these He$_2$ molecules (in m)?  (You will need to look up the grating spacing from the paper.)
-b. What is the speed of these He$_2$ molecules?
-
-4.  he expected angle of the first diffraction peak.  How well does your number agree with Fig. 2 of the paper?\
-[Answer.](./answers/compute_diffraction_angle.md)
+1.  In Figure 2 of the paper the first order helium dimer diffraction peak is observed at angle 1.0 mrad ("milli-radians") away from the beam direction.
+a. What is the de Broglie wavelength of these helium dimers (in m)?  (You will need to look up the grating spacing from the paper.)
+b. What is the speed of these helium dimers?
 
 5. The peaks shown in Fig. 2 of the paper have a "width"; i.e., the signal attributed to helium dimer doesn't just appear at one angle but over a range of angles.  
 a. List as many factors as possible that could contribute to these widths.  
