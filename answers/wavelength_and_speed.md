@@ -1,5 +1,7 @@
 # Answer:
 
+(a) 
+
 To apply the diffraction equation:
 
 $n \lambda = d \sin \theta$
@@ -15,3 +17,7 @@ $\lambda = d \sin \theta$.
 Substituting $d=200 \times 10^{-9}$ m and $\theta = 1 \times 10^{-3}$ rad gives:
 
 $\lambda \approx 200 \times 10^{-12}$ m.
+
+(b)  
+
+Use
