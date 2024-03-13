@@ -25,21 +25,21 @@ If this is your first icy plunge into the scientific literature: enjoy!
 
 ## Intermediate
 
-1.  In Figure 2 of the paper the first order helium dimer diffraction peak is observed at angle 1.0 mrad ("milli-radians") away from the beam direction.
+1.  In Figure 2 of the paper the first order helium dimer diffraction peak is observed at angle 1.0 mrad ("milli-radians") away from the beam direction.\
 a. What is the de Broglie wavelength of these helium dimers (in m)?  (You will need to look up the grating spacing from the paper.)
 b. What is the speed of these helium dimers?
 
-5. The peaks shown in Fig. 2 of the paper have a "width"; i.e., the signal attributed to helium dimer doesn't just appear at one angle but over a range of angles.  
+2. The peaks shown in Fig. 2 of the paper have a "width"; i.e., the signal attributed to helium dimer doesn't just appear at one angle but over a range of angles.\  
 a. List as many factors as possible that could contribute to these widths.  
 b. Bonus: Be quantiative and determine how much each of these factors would contribute to the observed width.\
 [Answer.](./answers/peak_widths.md)
 
-6. Suppose that the experiment was performed with helium atoms travelling at a different speed.  What problems would you expect to arise if the atoms are travelling  
+3. Suppose that the experiment was performed with helium atoms travelling at a different speed.  What problems would you expect to arise if the atoms are travelling\  
 a. more slowly?, or   
 b. more quickly?\
 [Answer.](./answers/different_speeds.md)
 
-7. Explain how the Heisenberg uncertainty principle prevents the two helium atoms from sitting motionless, at the bottom of the weakly attractive well describing their interaction.\
+4. Explain how the Heisenberg uncertainty principle prevents the two helium atoms from sitting motionless, at the bottom of the weakly attractive well describing their interaction.\
 [Answer.](./answers/hup.md)
 
 ## Graduate level
