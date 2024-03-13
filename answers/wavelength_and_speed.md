@@ -8,7 +8,7 @@ we need to know the grating spacing $d$.
 
 In the third paragraph of the paper, we find that $d=200$ nm.
 
-Since we are considering the first order diffraction peak, $n=1$, so that we may compute the de Broglie wavelength by:
+We are considering the first order diffraction peak, $n=1$, so that we may compute the de Broglie wavelength by:
 
 $\lambda = d \sin \theta$.
 
