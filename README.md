@@ -1,1 +1,1 @@
-[He He questions](./questions.md)
+[Click here to goto questions](./questions.md)
