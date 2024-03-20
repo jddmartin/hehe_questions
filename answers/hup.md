@@ -11,3 +11,5 @@ Although this equation is normally applied to a single particle, it can also be 
 If the atoms were sitting motionless, at the bottom of the attractive well, then $\Delta x$ would be zero and it would be impossible to satisfy the Heisenberg uncertainty relationship.
 
 More generally, as $\Delta x$ *decreases*, then the uncertainty in $\Delta v$ must *increase*.
+
+This mathematical result tells us that the more certain we are about the separation of the two particles, the less we know about their motion relative to one another.
