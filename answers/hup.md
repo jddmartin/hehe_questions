@@ -4,7 +4,7 @@ The Heisenberg uncertainty relationship is:
 
 $$m \Delta x \Delta v \ge \hbar / 2 $$
 
-where $m$ is the mass of a particle, $\Delta x $ is the uncertainty in position, and $\Delta v$ is the uncertainty in speed.
+where $m$ is the mass of a particle, $\Delta x$ is the uncertainty in position, and $\Delta v$ is the uncertainty in speed.
 
 Although this equation is normally applied to a single particle, it can also be applied to the relative motion of two particles, where $m$ is now the *reduced mass* of the two particle system, $\Delta x$ is the separation of the two particles, and $\Delta v$ is their relative speed.
 
