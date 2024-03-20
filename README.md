@@ -15,7 +15,7 @@ If this is your first icy plunge into the scientific literature: enjoy!
 2. The speed of light in a medium can be related to the light's frequency is modeled using the equation $v=f \lambda $. In this equation, $v$ is the light's speed in that medium, $f$ is the light wave's frequency, and $\lambda$ is the light's wavelength. Using this equation, convince yourself why "frequency doubling" is the same as saying "wavelength halving" (although one rolls off the tongue a bit better). (Hint: If you would like to use numbers, pick any frequency you want and double it! See what happens to the wavelength.)  [Answer.](./answers/frequencydoubling.md) 
 
 
-3. If helium atoms are travelling with a wavelength of 1 micrometer and the angle between the first order constructive diffraction spots and the central maximum is 5 $\degree$ , then how far apart are the gratings? Using the de Broglie Relationship, determine the momentum of the helium atoms. [Answer.](./answers/Diffractiongratingdistance.md)
+3. If helium atoms are travelling with a wavelength of 1 micrometer and the angle between the first order constructive diffraction spots and the central maximum is 5 $\degree$ , then how far apart are the gratings? Using the de Broglie Relationship (that is, $h = \frac{\lambda}{mv}=\frac{\lambda}{p}$ ), determine the momentum of the helium atoms. [Answer.](./answers/Diffractiongratingdistance.md)
 
 
 4. Consider what would happen if two atoms were too close together. Why would they not want to bond? Is that the same reason for why two atoms too far apart would not want to bond? Explain your reasoning. [Answer.](./answers/Whywontatomsbond.md) 
